@@ -105,6 +105,3 @@ def handle_post_request():
     # Call the function with the extracted parameters
     result = recommend(battery=param1, range=param2, price=param3)  
     return jsonify({'result': result})
-
-if __name__ == '__main__':
-    app.run()
