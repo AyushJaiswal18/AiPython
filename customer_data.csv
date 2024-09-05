@@ -1,0 +1,5 @@
+Customer_ID,Name,Email,Phone,Address,Purchase_Date,Preferred_Model
+1,John Doe,john.doe@example.com,9999999999,Jaipur,2023-06-25,Hero Optima
+2,Alice Smith,alice.smith@example.com,8888888888,Jaipur,2023-07-10,Yamaha Neo
+3,Bob Johnson,bob.johnson@example.com,7777777777,Delhi,2023-08-05,Bajaj Chetak
+4,Carol White,carol.white@example.com,6666666666,Delhi,2023-09-15,TVS iQube
